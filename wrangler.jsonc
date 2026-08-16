@@ -41,11 +41,5 @@
 		"ENABLE_WEB_BOT_AUTH": "false",
 	},
     "workers_dev": false,
-    "preview_urls": false,
-    "routes": [
-    {
-      "pattern": "ag.zztxer.dpdns.org",
-      "zone_name": "zztxer.dpdns.org"
-    }
-  ]
+    "preview_urls": false
 }
