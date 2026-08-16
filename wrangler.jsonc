@@ -44,7 +44,7 @@
     "preview_urls": false,
     "routes": [
     {
-      "pattern": "music.zztxer.dpdns.org",
+      "pattern": "ag.zztxer.dpdns.org",
       "zone_name": "zztxer.dpdns.org"
     }
   ]
